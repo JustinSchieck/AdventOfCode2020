@@ -1,0 +1,21 @@
+{
+    "name": "advent-of-code-2020",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Justin Schieck",
+    "license": "ISC",
+    "dependencies": {
+        "@babel/polyfill": "^7.12.1",
+        "babel": "^6.23.0"
+    },
+    "devDependencies": {
+        "@babel/cli": "^7.12.8",
+        "@babel/core": "^7.12.9",
+        "@babel/preset-env": "^7.12.7"
+    }
+}
