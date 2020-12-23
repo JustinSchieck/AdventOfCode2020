@@ -6,7 +6,8 @@
     "type": "module",
     "scripts": {
         "day1": "node Day1/index.js",
-        "day2": "node Day2/index.js"
+        "day2": "node Day2/index.js",
+        "day3": "node Day3/index.js"
     },
     "author": "Justin Schieck",
     "license": "ISC",
